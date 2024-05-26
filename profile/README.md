@@ -1,4 +1,4 @@
-![banner](https://github.com/SynapseNets/.github/blob/main/profile/banner.png)
+<img align="center" src="https://github.com/SynapseNets/.github/blob/main/profile/banner.png"></img>
 <h1 align="center">SynapseNets 🌐</h1>
 Welcome 👋, this is the home of the SynapseNets' github organization, which is an italian cybersecurity and developers team made by students and programming enthusiasts.
 
