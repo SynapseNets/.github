@@ -5,9 +5,10 @@ Welcome 👋, this is the home of the SynapseNets' github organization, which is
 ## Projects 🛠️
 - [x] Organization's Site - you can find the opensource code [`here`](https://github.com/SynapseNets/SynapseNets.github.io)
 - [ ] Organization's Discord Bot
+- [ ] Open source and multiplatform [`chat system`](https://github.com/SynapseNets/SynapseChat), with highly customizable features.
 
 ## Contacts ✉️
 Feel free to contacts us at this email : [`alanbovo@albovo.tech`](mailto:alanbovo@albovo.tech)
 
 ## License 📖
-All of our public repositories are under the **MIT License**.
+All of our public repositories are under the **MIT License** or the **Commons Clause License**.
