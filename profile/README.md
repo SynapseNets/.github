@@ -4,8 +4,9 @@ Welcome 👋, this is the home of the SynapseNets' github organization, which is
 
 ## Projects 🛠️
 - [x] Organization's Site - you can find the opensource code [`here`](https://github.com/SynapseNets/SynapseNets.github.io)
-- [ ] Organization's Discord Bot
+- [x] Organization's Discord Bot
 - [ ] Open source and multiplatform [`chat system`](https://github.com/SynapseNets/SynapseChat), with highly customizable features.
+- [ ] Creatyve.me, a site to easily and quickly edit your videos with the help of AI and our algorithms.
 
 ## Contacts ✉️
 Feel free to contacts us at this email : [`alanbovo@albovo.tech`](mailto:alanbovo@albovo.tech)
